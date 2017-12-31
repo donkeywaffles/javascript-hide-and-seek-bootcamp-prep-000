@@ -12,3 +12,7 @@ function increaseRankBy(n) {
     rankedList[i].innerHTML = (parseInt(rankedList[i].innerHTML) + n).toString();
   }
 }
+
+function deepestChild() {
+  
+}
